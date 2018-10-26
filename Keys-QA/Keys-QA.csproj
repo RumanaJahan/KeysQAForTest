@@ -117,6 +117,7 @@
     </Compile>
     <Compile Include="Global\Base.cs" />
     <Compile Include="Global\Driver.cs" />
+    <Compile Include="Pages\Hello.cs" />
     <Compile Include="Pages\Login.cs" />
     <Compile Include="Pages\Register.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
