@@ -8,7 +8,8 @@ namespace Keys_QA.Pages
 {
     class Hello
     {
-        int a = 5;
+        
+        int a = 7;
         int b = 6;
         int c = a + b;
     }
